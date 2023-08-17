@@ -1,4 +1,4 @@
-# File Descriptions
+# File Description
 T0.jpg- Photo of handwritten derivation to the 6 equations deiscussed in class
 
 t1.py- The end effector follows a specified time-dependent trajectory. Implemented purely thorugh kinematics.
