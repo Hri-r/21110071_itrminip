@@ -3,7 +3,7 @@ T0.jpg- Photo of handwritten derivation to the 6 equations deiscussed in class
 
 t1.py- The end effector follows a specified time-dependent trajectory. Implemented purely thorugh kinematics.
 
-t1_.py- 
+t1_.py- The end effector reaches a specified point.
 
 t2.py- End effector goes to a specified point on the wall and applies a force. Joint torques and applied normal force are printed. Standard sign conventions apply.
 
